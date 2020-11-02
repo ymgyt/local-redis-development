@@ -1,0 +1,5 @@
+# installed redis
+/redis-*
+
+# pyenv file
+.python-version
